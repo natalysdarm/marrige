@@ -1,0 +1,238 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Заметка {
+	color:#e6007e;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:11px;
+	text-transform:none;
+	widows:1;
+}
+p.Мудрости {
+	color:#009fe3;
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.125;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:11px;
+	text-transform:none;
+	widows:1;
+}
+p.Подзаглавие {
+	color:#cd1719;
+	font-family:Tahoma, sans-serif;
+	font-size:18px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:17px;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	text-align:center;
+	text-indent:11px;
+}
+p.ParaOverride-2 {
+	text-align:justify;
+	text-align-last:left;
+	text-indent:11px;
+}
+p.ParaOverride-3 {
+	text-align:justify;
+	text-align-last:center;
+}
+p.ParaOverride-4 {
+	text-indent:11px;
+}
+p.ParaOverride-5 {
+	text-align:justify;
+	text-align-last:center;
+	text-indent:11px;
+}
+p.ParaOverride-6 {
+	text-align:right;
+}
+p.ParaOverride-7 {
+	text-align:right;
+	text-indent:11px;
+}
+span.CharOverride-1 {
+	color:#cd1719;
+	font-family:Tahoma, sans-serif;
+	font-size:20px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	color:#be7b0c;
+	font-family:"Franklin Gothic Medium", sans-serif;
+	font-size:30px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	font-size:18px;
+}
+span.CharOverride-4 {
+	font-size:14px;
+}
+span.CharOverride-5 {
+	font-family:Gabriola, sans-serif;
+	font-size:23px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-6 {
+	font-family:Georgia, serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-7 {
+	font-family:Georgia, serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-8 {
+	color:#cd1719;
+	font-family:Georgia, serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	font-family:Georgia, serif;
+	font-size:31px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-10 {
+	font-family:Georgia, serif;
+	font-size:14px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-11 {
+	font-size:13px;
+}
+span.CharOverride-12 {
+	font-family:Georgia, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:842px;
+	width:595px;
+}
+#_idContainer007 {
+	display:inline-block;
+	height:334px;
+	position:relative;
+	width:521px;
+}
+#_idContainer013 {
+	display:inline-block;
+	height:332px;
+	width:616px;
+}
+#_idContainer019 {
+	display:inline-block;
+	height:429px;
+	width:595px;
+}
+#_idContainer023 {
+	display:inline-block;
+	height:842px;
+	width:1246px;
+}
+#_idContainer024 {
+	display:inline-block;
+	height:397px;
+	width:596px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	background-color:#ffed00;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
